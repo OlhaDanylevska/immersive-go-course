@@ -1,0 +1,5 @@
+{
+    "workbench.settings.useSplitJSON": false,
+    "go.formatTool": "gofmt",
+    "editor.formatOnSave": true
+}
